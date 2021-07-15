@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Warsha Kiringoda
-- 👀 I’m interested in Web development, Java, Angular, and in MIR + Machine learning.
+- 👀 I’m interested in Web development, and in Audio Signal Processing, MIR + Machine learning.
 - 🌱 I’m currently an undergraduate in IIT Sri Lanka
 - 📫 Reach me via warkiringoda@gmail.com
 
