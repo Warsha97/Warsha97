@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Warsha Kiringoda
-- 👀 I’m interested in web development and audio processing/ Music information retrieval with ML.
-- 🌱 I’m currently working as a developer
+- 👋 Hi, I’m software engineer
+- 👀 I’m interested in web and mobile development.
 
 <!---
 Warsha97/Warsha97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
