@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a software engineer
-- 👀 I’m interested in web and mobile development.
+- 👀 I do both web and mobile development.
 - Mainly I work with things in C#, Java, JavaScript realms
 
 <!---
